@@ -8,7 +8,7 @@ the C source files are in /src.
 To date this repro includes
 ---------------------------
 
-*A Lotka Volterra 2 species competition model
-*A betabinomial function
-*A Monti-Carlo Markov Chain for fitting a survival model
+* *A Lotka Volterra 2 species competition model*
+* *A betabinomial function*
+* *A Monti-Carlo Markov Chain for fitting a survival model*
 
