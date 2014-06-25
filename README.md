@@ -1,9 +1,9 @@
 CforR
 =====
 
-A collection of C/C++ code written specifically for use in R.
-R wrapper for the corresponding C code can be found in /R 
-the C source files are in /src.
+A growing collection of C/C++ code written specifically for use in R.
+All examples include a R wrapper corresponding to the C code (found in /R). 
+The C source files are in /src.
 
 To date this repro includes
 ---------------------------
